@@ -1,6 +1,6 @@
 ### Hi there, I'm Ernestine - aka [erma404][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ernestinemtb.com)
+[![Website](http://ernestinemtb.com/wp-content/uploads/2020/07/Ernestine-logo.png)](https://ernestinemtb.com)
 
 
 ## I'm a Developer, Project Manager and Food Lover!
