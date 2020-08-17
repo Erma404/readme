@@ -1,6 +1,6 @@
 ### Hi there, I'm Ernestine - aka [erma404][website] 👋
 
-[![Website](http://ernestinemtb.com/wp-content/uploads/2020/07/Ernestine-logo.png)](https://ernestinemtb.com)
+[![Website](http://ernestinemtb.com/wp-content/uploads/2020/08/Ernestine-logo-small.png)](https://ernestinemtb.com)
 
 
 ## I'm a Developer, Project Manager and Food Lover!
